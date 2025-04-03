@@ -1,0 +1,19 @@
+Challenges:  
+I found this assignment initially overwhelming because I lacked familiarity with compiling software from source. Many commands (like `make` or `git clone`) were new to me, and I couldn’t rely on my usual YouTube tutorials for step-by-step help.  
+
+How I Solved Problems:  
+- Used AI tools (like ChatGPT) to explain commands when stuck (e.g., "What does `sudo make install` do?").  
+- Learned why each step mattered (e.g., `apt install` downloads dependencies, `make` compiles code).  
+- Fixed errors by asking AI to translate technical messages (like "dangling reference" warnings).  
+
+Key Takeaways:  
+- Compiling from source is powerful but requires patience.  
+- Breaking tasks into small steps (install → compile → run) made it manageable.  
+- AI helped bridge gaps in my knowledge, but I now understand the a bit process better.  
+
+Difficulty Rating:  
+- Without help: 8/10 (felt lost at times).  
+- With AI guidance: 3.5/10 (could troubleshoot confidently). I didn't even know I had to press q to quit after running btop...lmao:-)
+
+Something I would recommend you guys to do:
+Give us more activities on these kind of basic concepts so we can master them because if you only do it once you can forget it easily

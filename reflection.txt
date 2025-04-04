@@ -1,0 +1,3 @@
+challenges -  struggles to clone .  had an issue with the https authentication so I  had to use  a GitHub PAT. im general it is still difficult trying to adapt to all this 
+ Lessons :practiced debugging build errors and I  learnt how to install, clone 
+CHPC SCC:Custom compilations are needed for HPC clusters when prebuilt packages are nott available
